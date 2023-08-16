@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie_Booking_App/static/css/main.53153240.css",
+    "main.js": "/Movie_Booking_App/static/js/main.3bef4176.js",
+    "index.html": "/Movie_Booking_App/index.html",
+    "main.53153240.css.map": "/Movie_Booking_App/static/css/main.53153240.css.map",
+    "main.3bef4176.js.map": "/Movie_Booking_App/static/js/main.3bef4176.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53153240.css",
+    "static/js/main.3bef4176.js"
+  ]
+}
