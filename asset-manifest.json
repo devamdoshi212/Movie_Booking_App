@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Movie_Booking_App/static/css/main.23cb43fc.css",
-    "main.js": "/Movie_Booking_App/static/js/main.f87e7f31.js",
+    "main.js": "/Movie_Booking_App/static/js/main.ecfd9cbf.js",
     "index.html": "/Movie_Booking_App/index.html",
     "main.23cb43fc.css.map": "/Movie_Booking_App/static/css/main.23cb43fc.css.map",
-    "main.f87e7f31.js.map": "/Movie_Booking_App/static/js/main.f87e7f31.js.map"
+    "main.ecfd9cbf.js.map": "/Movie_Booking_App/static/js/main.ecfd9cbf.js.map"
   },
   "entrypoints": [
     "static/css/main.23cb43fc.css",
-    "static/js/main.f87e7f31.js"
+    "static/js/main.ecfd9cbf.js"
   ]
 }
